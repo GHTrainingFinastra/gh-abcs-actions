@@ -1,5 +1,5 @@
 # gh-abcs-actions
-> The GitHub ABCs actions training with workflow templates, examples, hands-on labs and additional learning resources.
+> The GitHub ABCs actions training with workflow templates, examples, hands-on labs and additional learning resources on 22nd March 2023.
 
 ## Examples & Hands-on Labs
 
