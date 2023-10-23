@@ -8,7 +8,7 @@ on:
     #        │ │ ┌────────── day (month)
     #        │ │ │ ┌──────── month
     #        │ │ │ │ ┌────── day (week)
-    - cron: '0 1 * * *'
+#    - cron: '0 1 * * *'
     
 jobs:
   organization:
